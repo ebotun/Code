@@ -1,5 +1,8 @@
 # Implementation of Mask R-CNN on vehicles from a satellite view
 
+
+![test image size]()
+
 Default values are set to simplify the use of the parser.
 
 Download weights from https://drive.google.com/file/d/1rkhLmwXJNXpIgQ1h92am-rGXXMvtxbYL/view
