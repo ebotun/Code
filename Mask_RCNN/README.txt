@@ -1,7 +1,10 @@
 Default values are set to simplify the use of the parser.
 
+Downloads weights from https://drive.google.com/file/d/1rkhLmwXJNXpIgQ1h92am-rGXXMvtxbYL/view
+place it in ../Mask_RCNN/weights/
+
 To training with the provided vehicle dataset in the datasets folder use:
-Example: python vehicle.py train
+Example: python vehicle.py train 
 
 With other pretrained weights (Coco can also used) use:
 Example: python vehicle.py train --weights /path/to/specific/weights.h5
