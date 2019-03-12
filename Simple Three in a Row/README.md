@@ -4,4 +4,4 @@
 #### the computer picks randomly after the user has selected.
 #### Code and structure of xml file is provided
 
-![alt text](https://github.com/ebotun/Code/blob/master/Simple%20Three%20in%20a%20Row/Threeinarow.jpg?raw=true)
+![alt text](https://github.com/ebotun/Code/blob/master/Simple%20Three%20in%20a%20Row/Threeinarow.jpg?raw=true = 250x250)
