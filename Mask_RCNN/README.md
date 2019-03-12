@@ -1,7 +1,7 @@
 # Implementation of Mask R-CNN on vehicles from a satellite view
 
 
-![test image size]()
+![test image size](https://github.com/ebotun/Code/blob/master/Mask_RCNN/img_20180527T173826.png?raw=true)
 
 Default values are set to simplify the use of the parser.
 
