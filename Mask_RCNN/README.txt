@@ -1,7 +1,9 @@
+# Implementation of Mask R-CNN on vehicles from a satellite view
+
 Default values are set to simplify the use of the parser.
 
-Downloads weights from https://drive.google.com/file/d/1rkhLmwXJNXpIgQ1h92am-rGXXMvtxbYL/view
-place it in ../Mask_RCNN/weights/
+Download weights from https://drive.google.com/file/d/1rkhLmwXJNXpIgQ1h92am-rGXXMvtxbYL/view
+and place it in ../Mask_RCNN/weights/
 
 To training with the provided vehicle dataset in the datasets folder use:
 Example: python vehicle.py train 
@@ -28,6 +30,7 @@ PS: python terminal and powershell are used used to execute the commands/args.
 PS: Adjust the path to the folder if any problems are met upon regarding file not found.
 
 
-
+Credits:
+Mask R-CNN for Object Detection and Segmentation : https://github.com/matterport/Mask_RCNN
 
 
