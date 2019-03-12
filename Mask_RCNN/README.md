@@ -27,8 +27,6 @@ python vehicle.py splash --video /path/to/specific/video.avi
 
 PS: python terminal and powershell are used used to execute the commands/args.
 
-PS: Adjust the path to the folder if any problems are met upon regarding file not found.
-
 
 Credits:
 Mask R-CNN for Object Detection and Segmentation : https://github.com/matterport/Mask_RCNN
