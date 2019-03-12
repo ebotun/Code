@@ -1,6 +1,6 @@
 # A Simple Three in a Row using Xamarin
 
-#### Created a simple three in a row game that using xamarin that plays against a computer.
+#### Created a simple three in a row game using xamarin that plays against a computer.
 #### The computer picks randomly after the user has selected.
 #### Code and structure of xml file is provided.
 
